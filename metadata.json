@@ -1,0 +1,6 @@
+{
+  "name": "EventPro",
+  "description": "EventPro — Eventos que conectam pessoas e negócios. Plataforma para criação e gestão de eventos presenciais, virtuais e híbridos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
